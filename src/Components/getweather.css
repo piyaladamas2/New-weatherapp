@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.left_portion{
+    width:400px;
+    height: 400px;
+    background-color: cornflowerblue;
+    margin-top: 125px;
+    margin-left: 45px;
+}
+#pic_2{
+    width:400px;
+    height: 300px;
+    margin-top: 15px;
+}
+#left_heading{
+margin:15px;
+font-size: 20px;
+color: #fff;
+font-style: italic;
+}
+.right_portion{
+    width:600px;
+    height: 500px;
+    background-color: cornflowerblue;
+    margin-top: 75px;
+    margin-left: 15px;
+    margin-right: 65px;
+}
+.design{
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    width:70%;
+    height: 20px;
+    margin-top: 15px;
+    border-radius:15px ;
+    font-style: italic;
+    padding:5px;
+    margin-right: 165px;
+}
+h3{
+    margin:5px;
+    font-style: italic;
+    
+}
+h2{
+    margin-top: 45px;
+    color:black;
+   
+}
